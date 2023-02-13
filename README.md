@@ -1,5 +1,3 @@
-![Nombre de la imagen](https://cdn.midjourney.com/6d3cffef-d7d3-428c-8449-ce4a3e2f84c6/grid_0.png)
-
 <p align=center>
   <h1 align="center">Sobre mi<hr/></h1>
   <p>
