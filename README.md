@@ -5,7 +5,7 @@
   </p>
 </p>
 
-[![Mi sitio web](https://img.shields.io/badge/Visita-mi%20sitio%20web-green.svg)](https://portafolio-gamma-six.vercel.app/)
+<h3align="center">[![Mi sitio web](https://img.shields.io/badge/Visita-mi%20sitio%20web-green.svg)](https://portafolio-gamma-six.vercel.app/)</h3>
 
 <h3 align="center">MI STACK<hr/></h3>
 
