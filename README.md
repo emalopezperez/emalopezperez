@@ -1,7 +1,7 @@
 <p align=center>
   <h1 align="center">Sobre mi<hr/></h1>
   <p>
-    Soy Emanuel López, un apasionado de la tecnología, actualmente explorando tanto el lado del Frontend como del Backend. Tengo experiencia en proyectos de JavaScript, React Js, Next Js, HTML y CSS. Tambien cuento con habilidades en otras tecnologías como Tailwind CSS, Firebase, Strapi, MongoDB y Git. Mi enfoque es encontrar soluciones óptimas y trabajar en equipo, siguiendo siempre buenas prácticas de programación. La programación se ha convertido en mi verdadera pasión, ya que me brinda la oportunidad de ser creativo y solucionar problemas de manera eficiente, mientras continuamente me mantengo actualizado con los últimos lenguajes y tecnologías en este campo en constante evolución.
+    ¡Hola! Soy Emanuel López, un desarrollador front-end con experiencia en proyectos personales y trabajos freelance en JavaScript, React Js, Next Js, HTML, CSS y SEO. Durante dos años, he desarrollado y lanzado con éxito varios proyectos personales, aplicando mis habilidades en tecnologías como Tailwind CSS, Firebase, Strapi, MongoDB y Git. También he trabajado como freelancer en varios proyectos, proporcionando soluciones eficientes y efectivas para clientes. Me especializo en encontrar soluciones creativas y trabajar en equipo, siempre siguiendo buenas prácticas de programación. Si estás buscando un desarrollador front-end entusiasta y apasionado con experiencia en proyectos personales y trabajos freelance, no dudes en contactarme. Estoy emocionado de unirme a un equipo en el que pueda aplicar mis habilidades y aprender de los demás.
   </p>
 </p>
 
