@@ -50,6 +50,10 @@
   <a href='https://www.framer.com/docs/'>
     <img src="https://img.shields.io/badge/Framer motion-0055FF.svg?&style=for-the-badge&logo=framer&logoColor=white" />
   </a>
+  <a href='URL_DE_ASTRO'>
+  <img src="https://img.shields.io/badge/Astro-CÓDIGO_DE_COLOR.svg?&style=for-the-badge&logo=star&logoColor=white" />
+</a>
+
 </p>
 
 <h4>Backend</h4>
