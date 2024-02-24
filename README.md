@@ -1,7 +1,7 @@
 <p align=center>
   <h1 align="center">Sobre mi<hr/></h1>
   <p>
-    ¡Hola! Soy Emanuel López, Software developer con experiencia en proyectos personales y trabajos freelance en JavaScript, React Js, Next Js, Node.js, Express, Mongo DB, HTML, CSS y SEO. Durante dos años, he desarrollado y lanzado con éxito varios proyectos personales, aplicando mis habilidades en tecnologías como Tailwind CSS, Firebase, Strapi y Git. También he trabajado como freelancer en varios proyectos, proporcionando soluciones eficientes y efectivas para clientes. Me especializo en encontrar soluciones creativas y trabajar en equipo, siempre siguiendo buenas prácticas de programación. Si estás buscando un desarrollador front-end entusiasta y apasionado con experiencia en proyectos personales y trabajos freelance, no dudes en contactarme. Estoy emocionado de unirme a un equipo en el que pueda aplicar mis habilidades y aprender de los demás.
+    Soy un desarrollador de software con experiencia en proyectos personales y trabajos freelance, especializado en el desarrollo front-end, con conocimientos en backend. He trabajado en colaboración con diversos clientes para desarrollar y ofrecer soluciones eficientes. Durante estas colaboraciones, he aplicado una amplia variedad de tecnologías y herramientas, adaptándome a las necesidades específicas de cada proyecto para garantizar su éxito.
   </p>
 </p>
 
