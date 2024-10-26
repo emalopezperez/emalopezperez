@@ -1,77 +1,69 @@
-<p align=center>
-  <h1 align="center">Sobre mi<hr/></h1>
-  <p>
-    Soy un desarrollador de software con experiencia en proyectos personales y trabajos freelance, especializado en el desarrollo front-end, con conocimientos en backend. He trabajado en colaboración con diversos clientes para desarrollar y ofrecer soluciones eficientes. Durante estas colaboraciones, he aplicado una amplia variedad de tecnologías y herramientas, adaptándome a las necesidades específicas de cada proyecto para garantizar su éxito.
-  </p>
-</p>
+<h1 align="center"><b>Hi , I'm Emanuel Lopez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+ <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-[![Mi sitio web](https://emanuel-lopez-blog.vercel.app/)](https://emanuel-lopez-blog.vercel.app/)
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<h3 align="center">MI STACK<hr/></h3>
+I am a full stack developer with experience in front-end and back-end development. I work as a software developer, currently building solutions and managing projects that involve the creation of efficient, innovative, and productive systems. I’m passionate about continuous learning and enjoy creating tools that bring value and creativity to everyday processes.
+- 🌱 I’m currently learning ...
+  - Nest.js
+  - AWS Certified Developer – Associate
+- 👯 I’m looking forward to collaborate on open source projects.
+- My hobbies include 💜 playing chess, 📖 reading books, 🧠 studying cybersecurity, 🤖 delving into artificial intelligence, and 💼 exploring IT business opportunities. I'm also focusing my profile on the creation of digital products.
+- 📫 Reach out to me at: <a href="emanuelmisaellopezperez@gmail.com">emanuelmisaellopezperez@gmail.com</a>
 
-<h4>Frontend</h4>
-<p>
-  <a href='https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5'>
-    <img src="https://img.shields.io/badge/html5-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-    <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href='https://sass-lang.com/'>
-    <img src="https://img.shields.io/badge/sass-cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide'>
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  &nbsp;
- <a href='https://www.react.org/'>
-   <img src='https://img.shields.io/badge/react-61DAFB?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' />
- </a>
-  &nbsp;
-  <a href='https://redux.js.org/'>
-    <img src='https://img.shields.io/badge/redux-764ABC?logoWidth=30&labelColor=black&style=for-the-badge&logo=redux' />
-  </a>
-  &nbsp;
-  <a href='https://nextjs.org/'>
-    <img src="https://img.shields.io/badge/next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000" />
-  </a>
-  &nbsp;
-  <img  alt="react query"  src="https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white" />
-  &nbsp;
-  <a href='https://tailwindcss.com/'>
-    <img src='https://img.shields.io/badge/tailwind css-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge' />
-  </a>
-  &nbsp;
-  <a href='https://www.framer.com/docs/'>
-    <img src="https://img.shields.io/badge/Framer motion-0055FF.svg?&style=for-the-badge&logo=framer&logoColor=white" />
-  </a>
-  <a href='URL_DE_ASTRO'>
-  <img src="https://img.shields.io/badge/Astro-CÓDIGO_DE_COLOR.svg?&style=for-the-badge&logo=star&logoColor=white" />
-</a>
+## My Skills Include
 
-</p>
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> 
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+ 
 
-<h4>Backend</h4>
-<p>
-  <a href='https://nodejs.org/en/about/'>
-    <img src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge" />
-  </a>
-  &nbsp;
-  <a href='https://expressjs.com/'>
-    <img src="https://img.shields.io/badge/Express-ffffff.svg?&style=for-the-badge&logo=express&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href='https://www.mongodb.com/'>
-    <img src='https://img.shields.io/badge/mongo db-47A248?logo=mongodb&logoColor=white&style=for-the-badge' />
-  </a>
-  &nbsp;
-  <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  &nbsp;
-  <a href='https://www.prisma.io/'>
-    <img src="https://img.shields.io/badge/Prisma-2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white" />
-  </a>
-  &nbsp;  
-</p>
+
+</span>
+
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white">
+
+
+
+
+</span>
+
+## Check out my Social Media
+
+<a target="_blank" href="https://www.linkedin.com/in/emanuel-lopez-software-developer/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+&emsp;
+<a target="_blank" href="mailto:emanuelmisaellopezperez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+&emsp;
+<a target="_blank" href="https://x.com/emanuel38852241"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+&emsp;
+
+
+
+
+
