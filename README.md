@@ -2,7 +2,7 @@
 <!--  -->
  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+&nbsp;***About me***
 
 I am a full stack developer with experience in front-end and back-end development. I work as a software developer, currently building solutions and managing projects that involve the creation of efficient, innovative, and productive systems. I’m passionate about continuous learning and enjoy creating tools that bring value and creativity to everyday processes.
 - 🌱 I’m currently learning ...
