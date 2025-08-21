@@ -5,9 +5,6 @@
 &nbsp;***About me***
 
 I am a full stack developer with experience in front-end and back-end development. I work as a software developer, currently building solutions and managing projects that involve the creation of efficient, innovative, and productive systems. I’m passionate about continuous learning and enjoy creating tools that bring value and creativity to everyday processes.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - AWS Certified Developer – Associate
 - 👯 I’m looking forward to collaborate on open source projects.
 - My hobbies include 💜 playing chess, 📖 reading books, 🧠 studying cybersecurity, 🤖 delving into artificial intelligence, and 💼 exploring IT business opportunities. I'm also focusing my profile on the creation of digital products.
 - 📫 Reach out to me at: <a href="emanuelmisaellopezperez@gmail.com">emanuelmisaellopezperez@gmail.com</a>
